@@ -6,7 +6,7 @@ public:
     }
     int findDuplicate(vector<int>& nums) {
         vector<int> &arr=nums;
-        for (int& x : nums) {
+        for (const int& x : nums) {
             if(arr[abs(x)]<0){
                 return abs(x);
             }
