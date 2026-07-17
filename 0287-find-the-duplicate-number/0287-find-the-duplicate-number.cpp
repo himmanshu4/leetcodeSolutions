@@ -10,7 +10,7 @@ public:
             if(arr[abs(x)]<0){
                 return abs(x);
             }
-            setFreq(abs(x),arr);
+            arr[abs(x)]*=-1;
         }
         return 0;
     }
