@@ -8,7 +8,7 @@ public:
             if(arr[y]<0){
                 return y;
             }
-            arr[y]*=-1;
+            arr[y]=-arr[y];
         }
         return 0;
     }
