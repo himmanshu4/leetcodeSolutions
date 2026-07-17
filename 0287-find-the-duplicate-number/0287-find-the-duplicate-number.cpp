@@ -1,16 +1,16 @@
 class Solution {
 public:
-    void setFreq(int x,bool arr[]) {
-        arr[x]=true;
+    void setFreq(int x,vector<int>&arr) {
+        arr[x]=-arr[x];
 
     }
     int findDuplicate(vector<int>& nums) {
-        bool arr[100001]={};
+        vector<int> &arr=nums;
         for (int& x : nums) {
-            if(arr[x]){
-                return x;
+            if(arr[abs(x)]<0){
+                return abs(x);
             }
-            setFreq(x,arr);
+            setFreq(abs(x),arr);
         }
         return 0;
     }
