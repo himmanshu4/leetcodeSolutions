@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // invariant return ( x**n ) * ans;
     double myPow(double x, long long int n, double ans=1 ) {
         if( n==0 ){
             return ans;
