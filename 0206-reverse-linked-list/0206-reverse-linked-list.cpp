@@ -10,13 +10,14 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head, ListNode* parent= nullptr) {
-        if(head==nullptr){
-            //this happens at the very end
-            return parent;
+    ListNode* reverseList(ListNode* head ) {
+        ListNode* parent = nullptr;
+        while(head){
+            auto nextNode=head->next;
+            head->next=parent;
+            parent = head;
+            head = nextNode;
         }
-        auto newHead=reverseList(head->next,head);
-        head->next=parent;
-        return newHead;
+        return parent;
     }
 };
