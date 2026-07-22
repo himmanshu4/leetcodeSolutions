@@ -12,18 +12,25 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         // we will use an advanced node.
-        ListNode sentinelHead;
-        sentinelHead.next=head;
-        auto fast = &sentinelHead;
-        auto slow = &sentinelHead;
-        for(int i=0;i<n+1;i++){
+        // ListNode sentinelHead;
+        // sentinelHead.next=head;
+        auto fast = head;
+        auto slow = head;
+        ListNode* prev=nullptr;
+        for(int i=0;i<n;i++){
             fast=fast->next;
         }
         while(fast){
             fast=fast->next;
+            prev=slow;
             slow=slow->next;
         }
-        slow->next=slow->next->next;
-        return sentinelHead.next;
+        if(!prev){
+            // we are removing the head.
+            // slow is at the head.
+            return slow->next; 
+        }
+        prev->next = slow->next;
+        return head;
     }
 };
