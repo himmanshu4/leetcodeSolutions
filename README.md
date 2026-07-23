@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 ## Linked List
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
