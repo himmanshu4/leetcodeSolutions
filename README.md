@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
