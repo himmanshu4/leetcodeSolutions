@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0455-assign-cookies) |
+| [3536-maximum-product-of-two-digits](https://github.com/himmanshu4/leetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0050-powx-n) |
+| [3536-maximum-product-of-two-digits](https://github.com/himmanshu4/leetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
