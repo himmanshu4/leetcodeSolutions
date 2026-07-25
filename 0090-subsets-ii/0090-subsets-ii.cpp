@@ -2,7 +2,7 @@ class Solution {
 public:
     void solve(const map<int, int>::iterator lastIt, vector<vector<int>>& ans,
                vector<int>& tmpAns, map<int, int>::iterator it) {
-        cout<<it->first<<" "<<it->second<<"\n";
+        cout << it->first << " " << it->second << "\n";
         if (it == lastIt) {
             ans.push_back(tmpAns);
             return;
