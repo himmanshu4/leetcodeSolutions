@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
