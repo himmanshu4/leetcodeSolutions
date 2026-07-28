@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0455-assign-cookies) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/himmanshu4/leetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/himmanshu4/leetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/himmanshu4/leetcodeSolutions/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/himmanshu4/leetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/himmanshu4/leetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
